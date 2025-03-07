@@ -11,15 +11,15 @@ This bot automates auto reff distribute your account
 ## Requirements
 
 - NodeJS [Download](https://nodejs.org/en/download).
-- Distribute Account [Register Here](r.distribute.ai/ahlulmukh).
+- Distribute Account [Register Here](https://r.distribute.ai/ac9f8ff38ed7331f).
 
 ## Installation
 
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/ahlulmukh/distributeai-autoref.git
-   cd distributeai-autoref
+   git clone https://github.com/bilalrai12/Distribution-.git
+   cd Distribution-
    ```
 
 2. Install the packages:
@@ -48,9 +48,7 @@ node .
 
 ## Stay Connected
 
-- Channel Telegram : [Telegram](https://t.me/elpuqus)
-- Channel WhatsApp : [Whatsapp](https://whatsapp.com/channel/0029VavBRhGBqbrEF9vxal1R)
-- Discord : [Discord](https://discord.com/invite/uKM4UCAccY)
+- Channel Telegram : [Telegram](https://t.me/Bilalstudio2)
 
 ## Donation
 
